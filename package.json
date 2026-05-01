@@ -1,0 +1,13 @@
+{
+  "name": "pz-gof",
+  "version": "1.0.0",
+  "description": "GOF Design Patterns in TypeScript",
+  "main": "src/examples/run-all.ts",
+  "scripts": {
+    "start": "ts-node src/examples/run-all.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
